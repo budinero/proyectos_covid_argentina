@@ -40,7 +40,7 @@ fgfgh
 
 **asa**    _italic_   \*bold\* \*bold\* _italic_ \*bold  bold\* **dot**   _under_ 
 
-
+ `<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FHM224VKH%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>`
 
 dfgs
 
