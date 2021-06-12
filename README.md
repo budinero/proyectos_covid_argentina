@@ -28,7 +28,7 @@ d
 
 $$
 \begin{align}
-a &= b
+a &= b \\
 3 &= 2+5
 \end{align}
 $$
