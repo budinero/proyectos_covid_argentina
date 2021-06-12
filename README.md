@@ -1,6 +1,3 @@
----
-description: rewrt
----
 
 # Initial page
 
