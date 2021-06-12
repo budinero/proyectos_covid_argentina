@@ -27,7 +27,10 @@ Agregando texto
 d
 
 $$
-a = b
+\begin{align}
+a &= b
+3 &= 2+5
+\end{align}
 $$
 
 #### 
