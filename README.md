@@ -1,17 +1,23 @@
-
 # Initial page
 
 ## Getting Super Powers
 
-```
+```text
 $ give me super-powers
 ```
 
 Becoming a super hero is a fairly straight forward process:
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
+
+$$
+\begin{equation}
+a = b \\
+3 = 12312
+\end{equation}
+$$
 
 Once you're strong enough, save the world:
 
@@ -33,11 +39,9 @@ a &= b     \\
 \end{align}
 $$
 
-#### 
-
 ## sdfdsfg
 
-asd 😆 fad ERTGR 
+asd 😆 fad ERTGR
 
 $$
 a = b inf

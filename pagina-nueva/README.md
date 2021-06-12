@@ -36,7 +36,11 @@ fgfgh
 {% endapi-method-spec %}
 {% endapi-method %}
 
-Contenido nuevo
+**Contenido** nuevo \*test\* c
+
+**asa**    _italic_   \*bold\* \*bold\* _italic_ \*bold  bold\* **dot**   _under_ 
+
+
 
 dfgs
 
