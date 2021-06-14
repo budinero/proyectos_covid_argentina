@@ -1,28 +1,4 @@
 ---
-description: >-
-  <iframe
-  src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100"></iframe>
----
-
-# Initial page
-
-Getting Super Powers
-
-`<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100"></iframe>`
-
- `<?php $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100"); print_r($contents); ?>`
-
-```text
- <?php $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100"); print_r($contents); ?> $ give me super-powers   
-```
-
- `<?php $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100"); print_r($contents); ?>`
-
-`<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100"></iframe>`
-
-## `<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100"></iframe>`
-
-\`\`
 
 {% hint style="info" %}
 Super-powers are granted randomly so please submit an issue if you're not happy with yours.
@@ -35,7 +11,6 @@ a = b \\
 \end{equation}
 $$
 
-On  `<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100&jsonp=1"></script><?php $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FXN4IIGEB%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100"); print_r($contents); ?>`ce you're strong enough, save the world:
 
 {% code title="hello.sh" %}
 ```bash
