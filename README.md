@@ -1,4 +1,4 @@
-# Initial page
+---
 
 {% hint style="info" %}
 Super-powers are granted randomly so please submit an issue if you're not happy with yours.
@@ -10,6 +10,7 @@ a = b \\
 3 = 12312
 \end{equation}
 $$
+
 
 {% code title="hello.sh" %}
 ```bash
@@ -24,9 +25,7 @@ sdasd
 
 Agregando texto
 
-$$
-a = 5^2+1+5\mathbf{a}
-$$
+d
 
 $$
 \begin{align}
@@ -37,20 +36,22 @@ $$
 
 ## sdfdsfg
 
-$$
-a = b
-$$
-
 asd 😆 fad ERTGR
 
 $$
 a = b inf
 $$
 
+
+
+
+
 ![caption](.gitbook/assets/imagen%20%281%29.png)
 
+
+
 ```text
-{ifram fdsf
+{ifram fdsf 
 ```
 
 ```text
@@ -67,5 +68,5 @@ See the Pen [Alex the CSS Husky](https://codepen.io/davidkpiano/pen/wMqXea) by D
 * [ ] fgdg
 * [ ] dfg
 
-  `<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FHM224VKH%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>`
+ `<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F794413%2Fcollections%2FHM224VKH%2Fitems%3Fkey%3DsTltDR6zdooPIOrMQkjXcyms%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>`
 
